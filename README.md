@@ -1,9 +1,5 @@
 # Social Media Sentiment Analysis Using NLP and Machine Learning
 
-**United International University – School of Business and Economics**
-**Course project: Real-Life Project – NLP & Sentiment Analysis**
-
-**Author:** YOUR NAME | **Student ID:** YOUR ID | **Group:** YOUR GROUP
 
 ## Project Summary
 
